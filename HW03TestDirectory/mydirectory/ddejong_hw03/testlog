@@ -1,0 +1,4 @@
+Main: Beginning execution
+Main: infile  'zin.cons.scrambled'
+Main: outfile 'testout'
+Main: logfile 'testlog'
